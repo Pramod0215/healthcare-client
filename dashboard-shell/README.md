@@ -1,0 +1,2 @@
+# dashboard-shell
+Host application for the healthcare experience. It owns navigation, layout, shared tokens, authentication context, and remote mounting points for patient-ui, appointment-ui, and prescription-ui.
